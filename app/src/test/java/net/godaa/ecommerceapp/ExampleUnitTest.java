@@ -1,4 +1,4 @@
-package com.fulfillmenttools.ecommerceapp;
+package net.godaa.ecommerceapp;
 
 import org.junit.Test;
 
